@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Bicicleta {
     #modelo;
     #marca;
@@ -50,3 +51,11 @@ minhaBike.setVelocidadeMaxima(30);
 console.log(`Modelo: ${minhaBike.getModelo()}`);
 console.log(`Velocidade permitida: ${minhaBike.getVelocidadeMaxima()}km/h`);
 console.log(minhaBike);
+=======
+class Bicicleta{
+    #modelo = 'aro 29';
+    #marca = 'caloi';
+    #cor = 'rosa';
+    #velocidadeMaxima = 80;
+}
+>>>>>>> cdb65bd29c011f4770ddee97ee165c1532cd4d60
